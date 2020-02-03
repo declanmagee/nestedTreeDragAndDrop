@@ -1,0 +1,15 @@
+{
+  "name": "cts-multitree-latest-versions",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/k260nyxq9v",
+  "main": "index.js",
+  "dependencies": {
+    "@atlaskit/css-reset": "3.0.6",
+    "@atlaskit/tree": "5.0.1",
+    "react": "16.12.0",
+    "react-beautiful-dnd": "12.2.0",
+    "react-dom": "16.8.4"
+  }
+}

@@ -1,0 +1,20 @@
+.card-inner {
+  background-color: #fff;
+  border: 1px dotted rgb(204, 204, 204);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.card-outer {
+  padding: 2px;
+}
+
+.card-url {
+  float: right;
+}
+
+.unit {
+  font-weight: bold;
+  background-color: #efefef;
+  border: 2px solid rgb(204, 204, 204);
+}
